@@ -1,0 +1,133 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: cursive;
+}
+
+#main
+{
+  color: #0c0e0d;
+  background-color: #57A6A1;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  border-bottom: 2px solid black;
+
+}
+
+#main2
+{
+  color: rgb(183, 178, 178);
+  background-color: #577B8D;
+  height: 50px;
+  display: flex;
+  align-items:right;
+  justify-content: flex-start , space-around;
+  flex-flow: row;
+  border-bottom: 2px solid black;
+
+}
+
+
+button{
+display: inline-block , flex;
+width: 20%;
+background-color: #344C64;
+align-content: center;
+align-items: center;
+justify-content: space-evenly , space-around;
+text-align: center;
+}
+
+/* button{
+  background-color: #344C64;
+} */
+
+
+
+
+  #main3
+{
+  color: rgb(215, 203, 203);
+  background-color:#240750;
+  height: 900px;
+  /* padding-right: 500px; */
+  display: flex;
+  /* align-items: left; */
+  /* justify-content: center; */
+  flex-flow: row; 
+  border-bottom: 2px solid black;
+  /* text-align: left; */
+  /* padding-right: 500px; */
+  align-content: flex-end;
+ 
+
+}
+
+#main4
+{
+  color: rgb(215, 203, 203);
+  background-color:#344C64;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  border-bottom: 2px solid black;
+
+}
+
+
+#div1
+{
+  width: 100rem;
+  height: 900px ;
+  padding-right: 400px;
+  background-color:#240750 ;
+  text-align: center;
+}
+#div2
+{
+  width: 100rem;
+  height: 900px ;
+
+  background-color: #344C64;
+}
+
+
+/* #div3
+{
+  width: 100rem;
+  height: 900px ;
+  background-color: #6a28ce ;
+} */
+/* #circle
+{
+  
+  color: rgb(215, 203, 203);
+  background-color:#344C64;
+  height: 900px;
+  width: 800px;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* flex-flow: column;
+  position: relative ; */
+  /* border: 2px solid black; */
+  /* border-radius: 50%; */
+/* } */ */
+
+#main4
+{
+  color: rgb(215, 203, 203);
+  background-color:#344C64;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  border-bottom: 2px solid black;
+
+}
